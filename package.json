@@ -1,0 +1,17 @@
+{
+  "name": "@cwm/mhchem-katex",
+  "version": "3.3.0",
+  "description": "KaTeX plugin for mchem",
+  "author": "Neil Cumpstey",
+  "publisher": "cumpstey",
+  "homepage": "http://cwm.me/",
+  "license": "Apache-2.0",
+  "private": true,
+  "repository": {
+    "url": "https://github.com/cumpstey/mhchem-katex"
+  },
+  "main": "mhchem-katex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
