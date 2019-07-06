@@ -1,7 +1,7 @@
 {
   "name": "@cwm/mhchem-katex",
   "version": "3.3.0",
-  "description": "KaTeX plugin for mchem",
+  "description": "The mhchem plugin for KaTeX.",
   "author": "Neil Cumpstey",
   "publisher": "cumpstey",
   "homepage": "http://cwm.me/",

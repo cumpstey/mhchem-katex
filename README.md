@@ -1,6 +1,6 @@
-# mchem-katex
+# mhchem-katex
 
-This package simply contains the mchem plugin for KaTeX.
+This package simply contains the mhchem plugin for KaTeX.
 
 Original source url for the included `mchem.js` file: https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/contrib/mhchem.js
 
